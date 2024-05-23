@@ -1,4 +1,4 @@
-name: Deploy AnonLABZ to AWS #Test 2 with adding aaPanel ssh key
+name: Deploy AnonLABZ to AWS #Test github pages
 
 on:
   push:
